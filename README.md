@@ -48,5 +48,6 @@ Specific forms enable users to modify existing data, along with logic to delete 
 Print and Download Options:
 
 Some pages allow users to print reports directly or generate invoices. This is typically handled using JavaScript functions that prompt the browser to print the content.
+
 Conclusion
 Overall, your JSP application components create a functional hospital management system that allows for a variety of operations related to patient management, appointment scheduling, billing, and medical service details. Proper database management, user interfaces, and interactive elements together provide a comprehensive solution for managing hospital services and patient care efficiently.
